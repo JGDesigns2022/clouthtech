@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "userId": "usr_Q61",
+            "name": "Sarah Chen",
+            "company": "TechStartup Inc",
+            "plan": "professional",
+            "uploadLimit": "10GB",
+            "teamId": "team_alpha"
+        },
+        {
+            "userId": "usr_Q62",
+            "name": "Mike Rodriguez",
+            "company": "Global Corp",
+            "plan": "enterprise",
+            "uploadLimit": "unlimited",
+            "teamId": "team_beta"
+        },
+        {
+            "userId": "usr_Q63",
+            "name": "Emma Thompson",
+            "company": "Creative Agency",
+            "plan": "free",
+            "uploadLimit": "1GB",
+            "teamId": "team_gamma"
+        }
+    ]
+}
