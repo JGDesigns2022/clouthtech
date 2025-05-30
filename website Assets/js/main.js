@@ -28,6 +28,7 @@ document.querySelectorAll('.cta-primary, .cta-button').forEach(button => {
       // Track button clicks for analytics
       console.log('CTA clicked:', this.textContent);
      
+      // some more comments
       // In production, this would send to analytics service
       /*
       analytics.track('cta_clicked', {
