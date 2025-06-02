@@ -6,12 +6,12 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       if (target) {
           target.scrollIntoView({
               behavior: 'smooth',
-              block: 'start'
+              block:  'start'
           });
       }
   });
 });
-
+// testing
 // Navbar background on scroll
 window.addEventListener('scroll', function() {
   const navbar = document.querySelector('.navbar');
